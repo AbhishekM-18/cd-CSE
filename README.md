@@ -1,6 +1,6 @@
 # 👉cd-CSE 
 ##  Your Command To Navigate The World Of Computer Science.
-#### `cd-cse` 🧭
+#### `cd-CSE` 🧭
 
 > **A practical roadmap for navigating Computer Science.**
 
@@ -21,18 +21,18 @@ Internships.
 
 There is no shortage of things to learn. The difficult part is figuring out **where they fit, what they are actually useful for, and what you should focus on next.**
 
-That's what `cd-cse` is about.
+That's what `cd-CSE` is about.
 
 ---
 
-## 🧭 What is `cd-cse`?
+## 🧭 What is `cd-CSE`?
 
 `cd-cse` is an open collection of roadmaps, resources, notes, and perspectives designed to help Computer Science students navigate the field.
 
 The name comes from the terminal command:
 
 ```bash
-cd cse
+cd CSE
 ```
 
 **Change directory → enter Computer Science.**
@@ -115,4 +115,4 @@ This is meant to grow with the community.
 
 ---
 
-### `cd cse` → Start exploring.
+### `cd CSE` → Start exploring.
