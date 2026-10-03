@@ -187,7 +187,7 @@ Production-style full-stack system
 ## 🔄 Connections With Other Fields
 
 Software Engineering overlaps heavily with other areas of Computer Science.
-
+```text
 Software Engineering
 │
 ├── Data
@@ -204,7 +204,7 @@ Software Engineering
 │
 └── Systems
     └── Distributed Systems
-
+```
 Learning software engineering does not prevent you from moving into these areas later.
 
 ## 📚 Resources
