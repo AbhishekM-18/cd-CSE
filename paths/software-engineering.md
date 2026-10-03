@@ -40,8 +40,9 @@ Software Engineering
 ├── Mobile Development
 │
 └── Systems Software
+```
 
-🎨 Frontend Development
+## 🎨 Frontend Development
 
 Frontend development focuses on the part of an application that users interact with.
 
@@ -59,7 +60,7 @@ Websites
 Web applications
 Dashboards
 Interactive user interfaces
-⚙️ Backend Development
+## ⚙️ Backend Development
 
 Backend development focuses on the server-side logic and infrastructure behind an application.
 
@@ -79,7 +80,7 @@ Go
 C#
 C++
 
-🔗 Full Stack Development
+## 🔗 Full Stack Development
 
 Full stack development involves working across both frontend and backend systems.
 
@@ -95,7 +96,7 @@ Database
 Infrastructure
 The exact technologies can vary between projects.
 
-📱 Mobile Development
+## 📱 Mobile Development
 
 Mobile developers build applications for smartphones and tablets.
 
@@ -108,7 +109,7 @@ Kotlin
 Swift
 Flutter
 React Native
-🖥️ Systems Software
+## 🖥️ Systems Software
 
 Systems software works closer to the underlying computer and operating system.
 
@@ -126,7 +127,7 @@ C
 C++
 Rust
 Assembly
-🧱 Foundations
+## 🧱 Foundations
 
 Before specializing deeply, it is useful to understand:
 
@@ -144,7 +145,7 @@ Problem Solving
 
 You do not need to master all of these before starting development.
 
-🛠️ Tools
+## 🛠️ Tools
 
 Software engineers commonly work with tools such as:
 
@@ -161,7 +162,7 @@ Containers
 
 The exact toolset depends on the project and role.
 
-🧪 Projects to Try
+## 🧪 Projects to Try
 
 Projects are one of the best ways to understand software development.
 
@@ -183,7 +184,7 @@ Scalable backend
 Developer tool
 Open-source contribution
 Production-style full-stack system
-🔄 Connections With Other Fields
+## 🔄 Connections With Other Fields
 
 Software Engineering overlaps heavily with other areas of Computer Science.
 
@@ -206,7 +207,7 @@ Software Engineering
 
 Learning software engineering does not prevent you from moving into these areas later.
 
-📚 Resources
+## 📚 Resources
 
 Resources will be added based on the specific topic rather than collecting large lists of links.
 
@@ -233,7 +234,7 @@ Data
 AI / ML
 Cloud
 Cybersecurity
-🧭 Where Do You Go From Here?
+## 🧭 Where Do You Go From Here?
 
 You don't need to choose a specialization immediately.
 
