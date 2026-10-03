@@ -17,7 +17,7 @@ Data
 │
 └── Data Scientist
 ```
-🔎 Data Analyst
+## 🔎 Data Analyst
 
 A Data Analyst primarily works with data to understand what happened, identify patterns, and communicate findings.
 
