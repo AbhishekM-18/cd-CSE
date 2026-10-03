@@ -33,54 +33,8 @@ This is meant to grow with the community.
 ### `cd CSE` → Start exploring.
 ---
 ---
+---
 
-## 🗺️ Explore Computer Science
-
-Computer Science is much larger than a single career path. The goal of this roadmap is to help you understand the different areas before deciding where you want to go deeper.
-
-```text
-Computer Science
-│
-├── Software Engineering
-│   ├── Frontend
-│   ├── Backend
-│   ├── Full Stack
-│   ├── Mobile
-│   └── Systems
-│
-├── Data
-│   ├── Data Analyst
-│   ├── Data Engineer
-│   └── Data Scientist
-│
-├── AI & Machine Learning
-│   ├── Machine Learning Engineer
-│   ├── AI Engineer
-│   ├── Generative AI
-│   └── AI Research
-│
-├── Cloud & Infrastructure
-│   ├── Cloud Engineer
-│   ├── DevOps
-│   ├── Site Reliability Engineering (SRE)
-│   └── Platform Engineering
-│
-├── Cybersecurity
-│   ├── Security Engineering
-│   ├── SOC / Security Operations
-│   ├── Application Security
-│   ├── Cloud Security
-│   └── Offensive Security
-│
-├── Systems & Core Computing
-│   ├── Operating Systems
-│   ├── Networking
-│   ├── Distributed Systems
-│   └── Embedded Systems
-│
-└── Other Paths
-    ├── Product
-    ├── UX / UI
-    ├── Technical Writing
-    ├── Developer Relations
-    └── Research
+<p align="center">
+  <sub>Crafted by <strong>Abhishek</strong> & <strong>ChatGPT</strong> · Built with curiosity, code & collaboration.</sub>
+</p>
