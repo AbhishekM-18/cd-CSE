@@ -81,6 +81,9 @@ The purpose of the foundations is to give you enough understanding to explore di
 ### 💻 Software Engineering
 
 [Explore the Software Engineering guide →](paths/software-engineering.md)
+### 📊 Data
+
+[Explore the Data guide →](paths/data.md)
 
 Each major path in cd-CSE will eventually have its own guide covering:
 
