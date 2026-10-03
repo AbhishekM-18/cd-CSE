@@ -169,7 +169,7 @@ Trying a field is often more informative than reading about it.
 Choosing one area does not permanently lock you into it.
 
 For example:
-
+```text
 Software Engineering
         │
         ├── Backend
@@ -191,7 +191,7 @@ Software Engineering
            Application Security
                ↓
           Cybersecurity
-
+```
 These connections are part of what makes Computer Science broad.
 
 ## 📚 Resources
