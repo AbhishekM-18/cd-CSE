@@ -1104,29 +1104,346 @@ Think:
 
 ## 📚 Resources
 
-Each section of cd-CSE will contain selected resources rather than an unlimited collection of links.
+## 📚 Resources
 
-Resources may include:
+Computer Science has an enormous number of learning resources. The goal of this section is not to collect everything on the internet, but to provide useful starting points for learning, practicing and building.
 
-Official documentation
-Structured learning platforms
-Practice websites
-Courses
-Books
-Projects
-Communities
-Tools
+### 🌱 General CSE Resources
 
-Resources will be selected based on their relevance to the topic and learning stage.
+- [GeeksforGeeks](https://www.geeksforgeeks.org/) — DSA, programming, CS fundamentals and interview preparation
+- [roadmap.sh](https://roadmap.sh/) — Developer roadmaps and learning paths
+- [freeCodeCamp](https://www.freecodecamp.org/) — Interactive programming and development courses
+- [Khan Academy](https://www.khanacademy.org/) — Mathematics, computing and foundational learning
+- [MIT OpenCourseWare](https://ocw.mit.edu/) — University-level courses and lecture materials
+- [CS50](https://cs50.harvard.edu/) — Computer Science fundamentals and programming
+
+---
+
+### 💻 Programming
+
+#### C
+
+- [GeeksforGeeks — C Programming](https://www.geeksforgeeks.org/c/c-programming-language/)
+- [C Documentation](https://en.cppreference.com/w/c)
+
+#### C++
+
+- [GeeksforGeeks — C++](https://www.geeksforgeeks.org/cpp/c-plus-plus/)
+- [cppreference](https://en.cppreference.com/w/)
+
+#### Python
+
+- [Python Documentation](https://docs.python.org/3/)
+- [GeeksforGeeks — Python](https://www.geeksforgeeks.org/python/)
+- [Kaggle Learn — Python](https://www.kaggle.com/learn/python)
+
+#### Java
+
+- [Java Documentation](https://dev.java/learn/)
+- [GeeksforGeeks — Java](https://www.geeksforgeeks.org/java/)
+
+---
+
+### 🧠 DSA & Problem Solving
+
+- [GeeksforGeeks — Data Structures](https://www.geeksforgeeks.org/data-structures/)
+- [LeetCode](https://leetcode.com/)
+- [Codeforces](https://codeforces.com/)
+- [CodeChef](https://www.codechef.com/)
+- [HackerRank](https://www.hackerrank.com/)
+- [AtCoder](https://atcoder.jp/)
+- [CSES Problem Set](https://cses.fi/problemset/)
+- [TLE Eliminators](https://takeuforward.org/)
+- [cp-algorithms](https://cp-algorithms.com/)
+- [USACO Guide](https://usaco.guide/)
+
+---
+
+### 🌐 Web Development
+
+- [MDN Web Docs](https://developer.mozilla.org/)
+- [freeCodeCamp](https://www.freecodecamp.org/)
+- [web.dev](https://web.dev/)
+- [React](https://react.dev/)
+- [Next.js](https://nextjs.org/docs)
+- [Node.js](https://nodejs.org/docs/latest/api/)
+- [TypeScript](https://www.typescriptlang.org/docs/)
+
+---
+
+### 📊 Data
+
+- [Kaggle](https://www.kaggle.com/)
+- [Kaggle Learn](https://www.kaggle.com/learn)
+- [UCI Machine Learning Repository](https://archive.ics.uci.edu/)
+- [pandas](https://pandas.pydata.org/docs/)
+- [NumPy](https://numpy.org/doc/)
+- [Matplotlib](https://matplotlib.org/stable/)
+- [SQLBolt](https://sqlbolt.com/)
+- [PostgreSQL](https://www.postgresql.org/docs/)
+
+---
+
+### 🤖 AI & Machine Learning
+
+- [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
+- [Kaggle Learn](https://www.kaggle.com/learn)
+- [scikit-learn](https://scikit-learn.org/stable/)
+- [PyTorch](https://pytorch.org/docs/stable/)
+- [TensorFlow](https://www.tensorflow.org/learn)
+- [Hugging Face](https://huggingface.co/learn)
+- [DeepLearning.AI](https://www.deeplearning.ai/)
+- [Papers with Code](https://paperswithcode.com/)
+- [OpenAI Documentation](https://platform.openai.com/docs/)
+
+---
+
+### ☁️ Cloud & Infrastructure
+
+- [AWS](https://aws.amazon.com/training/)
+- [Microsoft Learn](https://learn.microsoft.com/)
+- [Google Cloud](https://cloud.google.com/learn)
+- [Docker](https://docs.docker.com/)
+- [Kubernetes](https://kubernetes.io/docs/)
+- [Terraform](https://developer.hashicorp.com/terraform/docs)
+- [GitHub Actions](https://docs.github.com/en/actions)
+- [Linux Journey](https://linuxjourney.com/)
+- [Cloudflare Learning Center](https://www.cloudflare.com/learning/)
+
+---
+
+### 🔐 Cybersecurity
+
+- [OWASP](https://owasp.org/)
+- [PortSwigger Web Security Academy](https://portswigger.net/web-security)
+- [TryHackMe](https://tryhackme.com/)
+- [Hack The Box](https://www.hackthebox.com/)
+- [OverTheWire](https://overthewire.org/)
+- [picoCTF](https://picoctf.org/)
+- [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
+- [Wireshark](https://www.wireshark.org/)
+
+---
+
+### 🖥️ Systems & Core Computing
+
+- [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+- [Nand2Tetris](https://www.nand2tetris.org/)
+- [MIT xv6](https://pdos.csail.mit.edu/6.1810/)
+- [MIT Distributed Systems](https://pdos.csail.mit.edu/6.5840/)
+- [Linux Documentation](https://www.kernel.org/doc/)
+- [Beej's Guide to C Programming](https://beej.us/guide/bgc/)
+- [The Rust Book](https://doc.rust-lang.org/book/)
+
+---
+
+### 🐙 Git & GitHub
+
+- [Git Documentation](https://git-scm.com/doc)
+- [Pro Git Book](https://git-scm.com/book/en/v2)
+- [GitHub Docs](https://docs.github.com/)
+- [GitHub Skills](https://skills.github.com/)
+- [GitHub Explore](https://github.com/explore)
+
+---
+
+### 🧪 Practice & Projects
+
+Use these platforms to move from learning to doing:
+
+- [Kaggle](https://www.kaggle.com/) — Data and ML projects
+- [GitHub](https://github.com/) — Projects and open source
+- [Codeforces](https://codeforces.com/) — Competitive programming
+- [LeetCode](https://leetcode.com/) — DSA and interview practice
+- [HackerRank](https://www.hackerrank.com/) — Programming practice
+- [TryHackMe](https://tryhackme.com/) — Cybersecurity labs
+- [picoCTF](https://picoctf.org/) — Security challenges
+- [Frontend Mentor](https://www.frontendmentor.io/) — Frontend projects
+- [Devpost](https://devpost.com/) — Hackathons and project showcases
+
+---
+
+### 📚 Research & Advanced Learning
+
+- [Google Scholar](https://scholar.google.com/)
+- [arXiv](https://arxiv.org/)
+- [Semantic Scholar](https://www.semanticscholar.org/)
+- [Papers with Code](https://paperswithcode.com/)
+- [ACM](https://www.acm.org/)
+- [IEEE Computer Society](https://www.computer.org/)
+
+---
+
+### 🎯 How to Use These Resources
+
+Don't try to use every resource at once.
+
+A simple approach:
+
+**Learn → Practice → Build → Review → Go Deeper**
+
+For example:
+
+**Learn DSA → Practice on LeetCode / Codeforces → Build projects → Review mistakes → Explore advanced topics**
+
+Choose resources based on the path you're currently exploring.
+
+### `cd CSE` → Don't collect resources. Use them.
 
 ## ⚠️ A Note Before You Choose
 
-There is no single "best" CSE field.
+## ⚠️ A Note Before You Choose
 
-A field being popular does not automatically make it suitable for everyone.
+Computer Science is much bigger than a list of technologies.
 
-Likewise, choosing a field today does not mean you cannot change direction later.
+You do not need to learn everything.
 
-Use this repository to understand your options, try things, and gradually decide where you want to go deeper.
+You also do not need to choose a specialization immediately.
 
-cd CSE → explore the landscape, understand the paths, and choose your direction.
+### 🧱 Build the Foundations
+
+Start by developing skills that are useful across many areas:
+
+- Programming
+- Problem Solving
+- Data Structures & Algorithms
+- Databases
+- Operating Systems
+- Computer Networks
+- Linux
+- Git & GitHub
+- Basic Software Engineering
+
+These foundations make it easier to explore specialized areas later.
+
+---
+
+### 🧭 Explore Before You Specialize
+
+You may not know what you enjoy at the beginning.
+
+That is normal.
+
+Try different things:
+
+**Learn → Build → Experiment → Reflect**
+
+Build a small project.
+
+Solve some problems.
+
+Work with a dataset.
+
+Deploy an application.
+
+Try a cybersecurity lab.
+
+Explore Linux and systems.
+
+Participate in a hackathon.
+
+Read about an area that interests you.
+
+Your experience will gradually give you a better idea of where you want to go deeper.
+
+---
+
+### 🚫 Don't Chase Every Trend
+
+Technology changes quickly.
+
+A new framework, programming language, tool or AI technology may become popular, but that does not mean you need to immediately learn it.
+
+Focus first on:
+
+**Concepts → Fundamentals → Problem Solving → Practical Skills**
+
+Tools can change.
+
+Strong fundamentals remain useful.
+
+---
+
+### 🛠️ Build While You Learn
+
+Avoid spending all your time consuming tutorials.
+
+Use what you learn.
+
+**Learn a concept → Build something → Face a problem → Research → Fix it → Improve**
+
+Projects help connect theoretical knowledge with practical development.
+
+---
+
+### 📚 Use Resources Intentionally
+
+There are thousands of tutorials, courses, books and platforms available.
+
+You do not need all of them.
+
+Choose a small number of reliable resources and actually use them.
+
+**One completed course + several projects + consistent practice**
+
+is more useful than collecting dozens of unfinished courses.
+
+---
+
+### 📈 Progress Is Not Linear
+
+You will get stuck.
+
+You will forget things.
+
+Some topics will feel difficult.
+
+Projects will fail.
+
+Code will contain bugs.
+
+That is part of learning Computer Science.
+
+Instead of measuring progress only by how much you know, also look at what you can now **build, solve, explain and debug**.
+
+---
+
+### 🧩 Your Path Can Change
+
+The path you choose today does not have to remain the same forever.
+
+You may start with:
+
+**Web Development → Backend → Cloud**
+
+or:
+
+**Python → Data → Machine Learning**
+
+or:
+
+**Linux → Networking → Cybersecurity**
+
+or:
+
+**C++ → Operating Systems → Systems**
+
+Different interests can eventually connect.
+
+---
+
+### 🎯 Focus on the Next Step
+
+You don't need to know your entire career path today.
+
+Ask:
+
+**What should I learn next?**
+
+Then:
+
+**Learn it → Practice it → Build with it → Decide what comes next.**
+
+That's enough.
+
+### `cd CSE` → You don't need to know the whole path. You just need to take the next step.
