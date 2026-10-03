@@ -57,7 +57,7 @@ Computer Science
     ├── Developer Relations
     └── Research
 
-    🧱 Foundations
+##🧱 Foundations
 
 Many paths share the same fundamentals.
 
@@ -77,7 +77,7 @@ You do not need to master everything before exploring a specialization.
 
 The purpose of the foundations is to give you enough understanding to explore different areas and make informed choices.
 
-🛣️ Understanding the Paths
+## 🛣️ Understanding the Paths
 
 Each major path in cd-CSE will eventually have its own guide covering:
 
@@ -96,7 +96,7 @@ Further areas to explore
 
 The goal is to explain the field, not simply list technologies.
 
-⚡ Competitive Programming
+##⚡ Competitive Programming
 
 Competitive programming deserves its own section because it is different from a specific industry role.
 
@@ -122,7 +122,7 @@ Learning resources
 
 Competitive programming is an option, not a requirement for every CSE student.
 
-🐙 Git & GitHub
+##🐙 Git & GitHub
 
 Git and GitHub are useful across many software-related paths.
 
@@ -139,7 +139,7 @@ Building a public portfolio
 
 cd-CSE will also contain a practical Git and GitHub learning path.
 
-🧭 How to Choose a Direction
+##🧭 How to Choose a Direction
 
 You do not have to decide your entire career at once.
 
@@ -160,7 +160,7 @@ What would I like to explore next?
 
 Trying a field is often more informative than reading about it.
 
-🔗 The Paths Overlap
+##🔗 The Paths Overlap
 
 Choosing one area does not permanently lock you into it.
 
@@ -190,7 +190,7 @@ Software Engineering
 
 These connections are part of what makes Computer Science broad.
 
-📚 Resources
+##📚 Resources
 
 Each section of cd-CSE will contain selected resources rather than an unlimited collection of links.
 
@@ -207,7 +207,7 @@ Tools
 
 Resources will be selected based on their relevance to the topic and learning stage.
 
-⚠️ A Note Before You Choose
+##⚠️ A Note Before You Choose
 
 There is no single "best" CSE field.
 
