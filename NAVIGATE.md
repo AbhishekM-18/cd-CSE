@@ -77,7 +77,7 @@ You do not need to master everything before exploring a specialization.
 
 The purpose of the foundations is to give you enough understanding to explore different areas and make informed choices.
 
-## 🛣️ Understanding the Paths
+##  🛣️ Understanding the Paths
 
 Each major path in cd-CSE will eventually have its own guide covering:
 
