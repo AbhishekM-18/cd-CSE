@@ -79,11 +79,25 @@ The purpose of the foundations is to give you enough understanding to explore di
 
 ## 🛣️ Understanding the Paths
 ### 💻 Software Engineering
-
 [Explore the Software Engineering guide →](paths/software-engineering.md)
-### 📊 Data
 
+### 📊 Data
 [Explore the Data guide →](paths/data.md)
+
+### 🤖 AI & Machine Learning
+[Explore the AI & Machine Learning guide →](paths/ai-ml.md)
+
+### ☁️ Cloud & Infrastructure
+[Explore the Cloud & Infrastructure guide →](paths/cloud.md)
+
+### 🔐 Cybersecurity
+[Explore the Cybersecurity guide →](paths/cybersecurity.md)
+
+### 🖥️ Systems & Core Computing
+[Explore the Systems & Core Computing guide →](paths/systems.md)
+
+### 🧭 Other Paths
+[Explore the Other Paths guide →](paths/other.md)
 
 Each major path in cd-CSE will eventually have its own guide covering:
 
