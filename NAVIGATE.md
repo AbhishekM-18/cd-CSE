@@ -56,7 +56,7 @@ Computer Science
     ├── Technical Writing
     ├── Developer Relations
     └── Research
-
+```
 ## 🧱 Foundations
 
 Many paths share the same fundamentals.
