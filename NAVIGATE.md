@@ -78,6 +78,9 @@ You do not need to master everything before exploring a specialization.
 The purpose of the foundations is to give you enough understanding to explore different areas and make informed choices.
 
 ## 🛣️ Understanding the Paths
+### 💻 Software Engineering
+
+[Explore the Software Engineering guide →](paths/software-engineering.md)
 
 Each major path in cd-CSE will eventually have its own guide covering:
 
@@ -95,6 +98,7 @@ Learning resources
 Further areas to explore
 
 The goal is to explain the field, not simply list technologies.
+
 
 ## ⚡ Competitive Programming
 
